@@ -1,18 +1,33 @@
 ---
 layout: page
-title: About
+title: 关于这个博客
 permalink: /about/
 ---
+### 撰写此博客的目的
+人，不可能脱离他所在的物质世界和社会，抽象地活着。对我来说，用理性的逻辑来理解这个世界的”真相”固然重要，但不要忘了人有七情六欲，是以肉身活在这个世界。因此从自己和自己所感出发，试图领会身处的这个具体却复杂的社会（借用拉康三界理论的“实在界”），有巨大的意义。我对我身处的城市（人和景观）、整个国家和世界的大致轮廓都有极强的好奇心。<br>
+我认为思考、阅读社科类学术文章，并将其应用在解读大众文化产品上，能够让我不断去体会、接近这个难以触摸的“真实”世界。<br>
+另加一条，因为我是中国人，也作为第三世界人民的一员，我希望可以寻找到优秀的中国作品、和我们的文化自觉。
+<br>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 博客讨论的范围
+博客的文章大致会分为两类：<br>
+一、对广义文化产品的评价：小说（及其他文学类型）、电影、电视剧、游戏<br>
+二、社科类学术文章（哲学、社会学、政治经济学等为主）的总结、和阅读心得。<br>
+选材看作者心情和能接触到的材料。
+<br>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### 关于博客作者
+一个在中国长大的90后，从小被中国传统文化的作品喂养到高中，高中开始转涉猎中国近代小说和外国小说。大学以来受崇洋媚外的社会环境影响，全身心的投入追逐欧美以英语为主的流行小说、音乐、影视作品，直到硕士出国之后遭遇新冠疫情（2019/2020年），突然惊醒欧美国家非我故乡。现转攻文化研究，中西方哲学（以第三世界视角为主），是辩证唯物主义的拥趸。<br>
+旅澳五年，现人于2022年回国。
+<br>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### 补档
+近期看过的作品，有可能会进行补档的，列一个清单：<br>
+<p>《女神异闻录5皇家版》+《女神异闻录3》</p>
+<p>看理想</p>
+<p>Neil Gaiman</p>
+<p>《新世纪福音战士》</p>
+<p>《进击的巨人》</p>
+<p>《隐入尘烟》</p>
+<p>《原神》</p>
+<p>双雪涛</p>
